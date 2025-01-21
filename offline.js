@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737443019,
+	"version": 1737449519,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,8 @@
 		"images/tiledbackground.png",
 		"images/bomb-sheet0.png",
 		"images/spaceship-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/earth-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/explosion-under-snow-sfx-230505.m4a",
