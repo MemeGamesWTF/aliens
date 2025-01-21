@@ -1,0 +1,33 @@
+﻿{
+	"version": 1737439825,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/redlightgreenlighthowto-sheet0.png",
+		"images/redlightgreenlighthowto-sheet1.png",
+		"images/redlightgreenlighthowto-sheet2.png",
+		"images/play-sheet0.png",
+		"images/sprite4sheet-sheet0.png",
+		"images/asset14x-sheet0.png",
+		"images/asset14x-sheet1.png",
+		"images/asset14x-sheet2.png",
+		"images/asset14x-sheet3.png",
+		"images/asset14x-sheet4.png",
+		"images/asset14x-sheet5.png",
+		"images/sprite11sheet-sheet0.png",
+		"images/sprite5sheet-sheet0.png",
+		"images/tiledbackground.png",
+		"images/basketball-sheet0.png",
+		"images/spaceship-sheet0.png",
+		"media/tap.m4a",
+		"media/tap.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
