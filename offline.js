@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737452801,
+	"version": 1737453323,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,8 +28,6 @@
 		"media/tap.ogg",
 		"media/explosion-under-snow-sfx-230505.m4a",
 		"media/explosion-under-snow-sfx-230505.ogg",
-		"media/bomb blast.m4a",
-		"media/bomb blast.ogg",
 		"media/game over (4).m4a",
 		"media/game over (4).ogg",
 		"media/bg (2).m4a",
